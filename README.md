@@ -1,5 +1,5 @@
 # Murder Plugin for MCPE
-[![Poggit-CI](https://poggit.pmmp.io/ci.badge/peptiGamer/Murder/Murder)](https://poggit.pmmp.io/ci/peptiGamerMurder/Murder)
+[![Poggit-CI](https://poggit.pmmp.io/ci./peptiGamer/MurderMystery
 
 
 ### Commands:
